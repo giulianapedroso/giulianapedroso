@@ -1,7 +1,7 @@
 Oie!
 Eu sou a Giuliana Pedroso!
 
-- 🌱 I’m currently learning sobre front end...
+👩‍💻 I’m currently learning sobre front end...
   
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giulianapedroso&show_icons=true&theme=radical)
